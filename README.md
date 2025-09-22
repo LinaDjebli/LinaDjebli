@@ -29,4 +29,4 @@
 ✨ Always excited to learn something new and collaborate on projects that push the boundaries of technology!
 
 
-[![Lyna's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Lyna's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinaDjebli)](https://github.com/LinaDjebli/github-readme-stats)
