@@ -25,5 +25,5 @@
 - 📧 Reach me here on GitHub or via email  
 
 ---
-
+[![Lyna github status]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinaDjebli)](https://github.com/anuraghazra/github-readme-stats) ]
 ✨ Always excited to learn something new and collaborate on projects that push the boundaries of technology!
