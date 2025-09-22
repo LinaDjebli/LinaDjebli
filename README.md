@@ -1,5 +1,23 @@
-# 💫 About Me:
- 👋 Hi, I’m Lyna Djebli<br><br>🎓 2nd-year Master’s student at [USTHB](https://www.usthb.dz/)  <br>💡 Passionate about **Artificial Intelligence**, especially **Deep Learning**, **Machine Learning**, and **Large Language Models (LLMs)**  <br>🤝 I love to **learn, share knowledge, and collaborate** on exciting projects  
+# 👋 Yo, I’m **Lyna Djebli**
+
+🎓 2nd-year Master’s student at [USTHB](https://www.usthb.dz/)  
+💡 Passionate about **Artificial Intelligence** — from **Deep Learning** & **Machine Learning** to **Large Language Models (LLMs)**  
+⚛️ Also curious about **Quantum Computing** (still a beginner, but exploring 🚀)  
+🤝 I enjoy **learning, sharing knowledge, and collaborating** on exciting projects  
+
+---
+
+## 🔭 Interests
+- 🤖 AI, ML & Deep Learning  
+- 📚 Experimenting with [LLMs](https://en.wikipedia.org/wiki/Large_language_model)  
+- ⚛️ Quantum Computing basics & concepts  
+
+---
+
+## 🌱 Currently
+- Diving deeper into **AI & ML**  
+- Exploring **Quantum Computing**  
+- Building projects & growing with the community   
 
 
 ## 🌐 Socials:
